@@ -37,3 +37,12 @@ h1{
     margin: auto;
     border: 5px solid grey;
 }
+.headers{
+    font-size: medium;
+    font-weight: bolder;
+    color: white;
+
+}
+.textcolor{
+    color: white;
+}
